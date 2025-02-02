@@ -16,7 +16,7 @@ export function PrivacyPolicy({ isOpen, onClose }: PrivacyPolicyProps) {
           <section>
             <h3 className="font-bold">1. Responsable del Tratamiento de Datos Personales</h3>
             <p>
-              Audio Axiolutions (en adelante, 'nosotros' o 'el sitio web') informa a sus usuarios que no recaba,
+              Audio Axiolutions (en adelante, nosotros o el sitio web) informa a sus usuarios que no recaba,
               almacena ni procesa datos personales a través de este sitio.
             </p>
           </section>
