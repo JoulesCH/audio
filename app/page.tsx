@@ -34,7 +34,7 @@ export default function LandingPage() {
                 </p>
               </div>
               <div className="space-x-4">
-                <Link href="https://wa.link/h5bw3c" target="_blank" rel="noopener noreferrer">
+                <Link href="hhttps://api.whatsapp.com/send?phone=525577650994&text=Hola.%20Quiero%20informes" target="_blank" rel="noopener noreferrer">
                   <Button className="bg-white text-gradient-start hover:bg-white/90">
                     <WhatsApp className="mr-2 h-4 w-4" /> WhatsApp
                   </Button>
@@ -120,7 +120,7 @@ export default function LandingPage() {
                 Contáctanos ahora y haz que tu evento suene increíble
               </p>
               <div className="space-x-4">
-                <Link href="https://wa.link/h5bw3c" target="_blank" rel="noopener noreferrer">
+                <Link href="hhttps://api.whatsapp.com/send?phone=525577650994&text=Hola.%20Quiero%20informes" target="_blank" rel="noopener noreferrer">
                   <Button className="bg-white text-gradient-start hover:bg-white/90">
                     <WhatsApp className="mr-2 h-4 w-4" /> WhatsApp
                   </Button>
